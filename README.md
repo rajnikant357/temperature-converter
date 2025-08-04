@@ -9,7 +9,7 @@ A simple and modern web application to convert temperatures between Celsius, Fah
 - Easy to use: just enter a value, select units, and click Convert
 
 ## Demo
-![Screenshot](screenshot.png) <!-- Add a screenshot if available -->
+![Screenshot](Screenshot.png) <!-- Add a screenshot if available -->
 
 ## How to Use
 1. Clone or download this repository.
