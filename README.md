@@ -1,5 +1,10 @@
 
-[🌐 Live Demo](https://rajnikant357.github.io/temperature-converter/) — Try the Temperature Converter instantly in your browser!
+
+<p align="center">
+  <a href="https://rajnikant357.github.io/temperature-converter/" target="_blank" style="display:inline-block;padding:18px 36px;font-size:1.3rem;font-weight:bold;background:linear-gradient(90deg,#43cea2 0%,#185a9d 100%);color:#fff;border-radius:12px;text-decoration:none;box-shadow:0 2px 8px rgba(44,62,80,0.13);margin:18px 0;">
+    🚀 Live Demo: Try the Temperature Converter!
+  </a>
+</p>
 
 # Temperature Converter Web App
 
